@@ -113,8 +113,7 @@ section {
   font-size: 14px;
   padding: .2rem 0;
   border-bottom: 1px solid #e5e5e5;
-  width: 100%;
-  padding: 10px;
+  margin: 0 .3rem
 }
 
 .m_article .m_article_img {
@@ -147,23 +146,15 @@ section {
   min-height: 1.4rem
 }
 
-.m_article .m_article_desc{
-  margin-top: 0;
-}
-.clearfix {
-    margin-top: 0px;
-}
 .m_article .m_article_desc .m_article_channel {
   display: inline-block;
-    color: rgba(255, 51, 51, 0.9);
-    font-size: 12px;
-    padding: 2px 4px;
-    line-height: 12px;
-    margin-right: .1rem;
-    background-size: 100% 100%;
-    border: 1px solid;
-    border-radius: 3px;
-    font-family: 微软雅黑;
+  color: rgba(255, 51, 51, 0.9);
+  font-size: 12px;
+  padding: 2px;
+  line-height: 12px;
+  margin-right: .1rem;
+  background: url(http://img2.cache.netease.com/f2e/wap/common/images/border_red.png) no-repeat;
+  background-size: 100% 100%
 }
 
 .m_article .m_article_desc .m_article_time {

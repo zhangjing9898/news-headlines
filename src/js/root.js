@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import {Router, Route, hashHistory} from 'react-router';
 import {Button} from 'antd';
 import PCIndex from './components/pc_index';
-import MobildIndex from './components/mobile_index';
+import MobileIndex from './components/mobile_index';
+import MobileNewsDetails from './components/mobile_news_details';
 import 'antd/dist/antd.css';
 import MediaQuery from 'react-responsive';
 import PCNewsDetails from './components/pc_news_details';
@@ -19,7 +20,10 @@ export default class Root extends React.Component {
 					</Router>
 				</MediaQuery>
 				<MediaQuery query='(max-device-width:1224px)'>
-					<MobildIndex/>
+					<Router history={hashHistory}>
+						<Route path="/" component={MobileIndex}></Route>
+						<Route path="/details/:uniquekey" component={MobileNewsDetails}></Route>
+					</Router>
 				</MediaQuery>
 			</div>
 		);
