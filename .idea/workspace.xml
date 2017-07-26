@@ -2,109 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d42014-2249-4264-bb64-ebd9710bfdf0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/components/pc_product.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/module.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/acorn.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/babylon.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/babylon.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/browserslist.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/browserslist.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/cssesc.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/cssesc.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/csso.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/csso.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/errno.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/errno.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/esparse.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/esparse.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/esvalidate.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/esvalidate.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/js-yaml.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/js-yaml.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/jsesc.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/jsesc.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/json5.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/json5.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/regjsparser.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/regjsparser.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/sha.js.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/sha.js.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/svgo.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/svgo.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/uglifyjs.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/uglifyjs.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/webpack.cmd" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/alphanum-sort/LICENSE" afterPath="$PROJECT_DIR$/node_modules/alphanum-sort/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/alphanum-sort/README.md" afterPath="$PROJECT_DIR$/node_modules/alphanum-sort/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/alphanum-sort/lib/compare.js" afterPath="$PROJECT_DIR$/node_modules/alphanum-sort/lib/compare.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.js" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd.js" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/.bin/jsesc.cmd" afterPath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/.bin/jsesc.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/big.js/LICENCE" afterPath="$PROJECT_DIR$/node_modules/big.js/LICENCE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/big.js/README.md" afterPath="$PROJECT_DIR$/node_modules/big.js/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/big.js/big.js" afterPath="$PROJECT_DIR$/node_modules/big.js/big.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/big.js/big.min.js" afterPath="$PROJECT_DIR$/node_modules/big.js/big.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/clap/README.md" afterPath="$PROJECT_DIR$/node_modules/clap/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/color-name/.npmignore" afterPath="$PROJECT_DIR$/node_modules/color-name/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/color-name/LICENSE" afterPath="$PROJECT_DIR$/node_modules/color-name/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/color-name/README.md" afterPath="$PROJECT_DIR$/node_modules/color-name/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/color-name/index.js" afterPath="$PROJECT_DIR$/node_modules/color-name/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/color-name/test.js" afterPath="$PROJECT_DIR$/node_modules/color-name/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/.eslintrc" afterPath="$PROJECT_DIR$/node_modules/css-loader/.eslintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/.npmignore" afterPath="$PROJECT_DIR$/node_modules/css-loader/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/css-loader/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/README.md" afterPath="$PROJECT_DIR$/node_modules/css-loader/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/index.js" afterPath="$PROJECT_DIR$/node_modules/css-loader/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/lib/compile-exports.js" afterPath="$PROJECT_DIR$/node_modules/css-loader/lib/compile-exports.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/lib/css-base.js" afterPath="$PROJECT_DIR$/node_modules/css-loader/lib/css-base.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/lib/getImportPrefix.js" afterPath="$PROJECT_DIR$/node_modules/css-loader/lib/getImportPrefix.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/lib/getLocalIdent.js" afterPath="$PROJECT_DIR$/node_modules/css-loader/lib/getLocalIdent.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/lib/loader.js" afterPath="$PROJECT_DIR$/node_modules/css-loader/lib/loader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/lib/localsLoader.js" afterPath="$PROJECT_DIR$/node_modules/css-loader/lib/localsLoader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/lib/processCss.js" afterPath="$PROJECT_DIR$/node_modules/css-loader/lib/processCss.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/css-loader/locals.js" afterPath="$PROJECT_DIR$/node_modules/css-loader/locals.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/dist/Draft.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/dist/Draft.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/README.md" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/DirectoryDefaultFilePlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/DirectoryDefaultFilePlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/DirectoryDescriptionFileFieldAliasPlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/DirectoryDescriptionFileFieldAliasPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/DirectoryDescriptionFilePlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/DirectoryDescriptionFilePlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/DirectoryResultPlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/DirectoryResultPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/FileAppendPlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/FileAppendPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModuleAliasPlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModuleAliasPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModuleAsDirectoryPlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModuleAsDirectoryPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModuleAsFilePlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModuleAsFilePlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModuleTemplatesPlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModuleTemplatesPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModulesInDirectoriesPlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModulesInDirectoriesPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModulesInRootPlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ModulesInRootPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/NodeJsInputFileSystem.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/NodeJsInputFileSystem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/Resolver.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/Resolver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ResultSymlinkPlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/ResultSymlinkPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/SyncNodeJsInputFileSystem.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/SyncNodeJsInputFileSystem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/UnsafeCachePlugin.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/UnsafeCachePlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/createInnerCallback.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/createInnerCallback.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/node.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/node.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/popPathSeqment.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/popPathSeqment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/.gitattributes" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/.gitattributes" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/README.md" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/lib/MemoryFileSystem.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/lib/MemoryFileSystem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/lib/join.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/lib/join.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/lib/normalize.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/lib/normalize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/test/MemoryFileSystem.js" afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/node_modules/memory-fs/test/MemoryFileSystem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fastparse/.eslintrc" afterPath="$PROJECT_DIR$/node_modules/fastparse/.eslintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fastparse/.npmignore" afterPath="$PROJECT_DIR$/node_modules/fastparse/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fastparse/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/fastparse/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fastparse/README.md" afterPath="$PROJECT_DIR$/node_modules/fastparse/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fastparse/lib/Parser.js" afterPath="$PROJECT_DIR$/node_modules/fastparse/lib/Parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/fastparse/test/Parser.test.js" afterPath="$PROJECT_DIR$/node_modules/fastparse/test/Parser.test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-loader/README.md" afterPath="$PROJECT_DIR$/node_modules/json-loader/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json-loader/index.js" afterPath="$PROJECT_DIR$/node_modules/json-loader/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bundle.js" afterPath="$PROJECT_DIR$/src/bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/mobile.css" afterPath="$PROJECT_DIR$/src/css/mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/antd/dist/antd.css" afterPath="$PROJECT_DIR$/node_modules/antd/dist/antd.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/pc.css" afterPath="$PROJECT_DIR$/src/css/pc.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/common_comments.js" afterPath="$PROJECT_DIR$/src/js/components/common_comments.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/mobile_footer.js" afterPath="$PROJECT_DIR$/src/js/components/mobile_footer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/mobile_header.js" afterPath="$PROJECT_DIR$/src/js/components/mobile_header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/mobile_index.js" afterPath="$PROJECT_DIR$/src/js/components/mobile_index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/mobile_list.js" afterPath="$PROJECT_DIR$/src/js/components/mobile_list.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/mobile_news_details.js" afterPath="$PROJECT_DIR$/src/js/components/mobile_news_details.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/pc_footer.js" afterPath="$PROJECT_DIR$/src/js/components/pc_footer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/pc_header.js" afterPath="$PROJECT_DIR$/src/js/components/pc_header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/pc_index.js" afterPath="$PROJECT_DIR$/src/js/components/pc_index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/pc_news_block.js" afterPath="$PROJECT_DIR$/src/js/components/pc_news_block.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/pc_news_details.js" afterPath="$PROJECT_DIR$/src/js/components/pc_news_details.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/pc_news_image_block.js" afterPath="$PROJECT_DIR$/src/js/components/pc_news_image_block.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/components/pc_newscontainer.js" afterPath="$PROJECT_DIR$/src/js/components/pc_newscontainer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/root.js" afterPath="$PROJECT_DIR$/src/js/root.js" />
     </list>
@@ -120,12 +24,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="mobile_usercenter.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/js/components/mobile_usercenter.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="pc.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/css/pc.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            <state relative-caret-position="565">
+              <caret line="432" column="1" lean-forward="true" selection-start-line="432" selection-start-column="1" selection-end-line="432" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -137,6 +41,8 @@
     <findStrings>
       <find>remark</find>
       <find>getFieldDecorator</find>
+      <find>img-wrap</find>
+      <find>a</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -145,7 +51,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/js/root.js" />
+        <option value="$PROJECT_DIR$/src/js/components/pc_header.js" />
         <option value="$PROJECT_DIR$/src/js/components/common_comments.js" />
+        <option value="$PROJECT_DIR$/src/js/components/pc_newscontainer.js" />
+        <option value="$PROJECT_DIR$/src/css/pc.css" />
+        <option value="$PROJECT_DIR$/node_modules/antd/dist/antd.css" />
       </list>
     </option>
   </component>
@@ -247,10 +158,156 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news-headlines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antd.less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,6 +367,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -347,26 +410,27 @@
       <workItem from="1500961555902" duration="50000" />
       <workItem from="1500961663471" duration="368000" />
       <workItem from="1500962282455" duration="43000" />
+      <workItem from="1501031434322" duration="1018000" />
+      <workItem from="1501038441291" duration="1893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1474000" />
+    <option name="totallyTimeSpent" value="4385000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1679473" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -383,10 +447,31 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1501032392030" expanded="true" signature="5538:5559" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/mobile_usercenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/components/common_comments.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1909">
@@ -450,24 +535,168 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/components/mobile_news_details.js">
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_footer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/components/common_comments.js">
+    <entry file="file://$PROJECT_DIR$/src/js/components/mobile_news_details.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="83" column="6" lean-forward="false" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_news_block.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_news_image_block.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/root.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="66" lean-forward="true" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="159" column="40" lean-forward="false" selection-start-line="159" selection-start-column="40" selection-end-line="159" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1501032392030" expanded="true" signature="5538:5559" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/components/mobile_usercenter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        <state relative-caret-position="345">
+          <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_usercenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="97" column="45" lean-forward="true" selection-start-line="97" selection-start-column="45" selection-end-line="97" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-447">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/dist/antd.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/lib/style/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/lib/style/components.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-582">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/dist/antd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="18847" column="3" lean-forward="true" selection-start-line="18847" selection-start-column="3" selection-end-line="18847" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/common_comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="60" column="50" lean-forward="true" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_news_details.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="24" column="51" lean-forward="false" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/pc_newscontainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#125#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/pc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="432" column="1" lean-forward="true" selection-start-line="432" selection-start-column="1" selection-end-line="432" selection-end-column="1" />
           <folding />
         </state>
       </provider>
